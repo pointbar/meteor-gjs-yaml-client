@@ -1,6 +1,6 @@
 Package.describe({
   name: 'pntbr:js-yaml-client',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'JavaScript YAML parser and dumper - YAML 1.2',
   git: 'https://github.com/pointbar/meteor-js-yaml-client',
   documentation: 'README.md'
